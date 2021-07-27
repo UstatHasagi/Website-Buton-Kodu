@@ -1,4 +1,4 @@
-Bu kodları istediğiniz gibi değiştirebilirsiniz ama kurcalamanızı tavsiye etmiyorum. href="..." kodunun içindeki noktaları silip tıklandığında gidiceğin bağlantıyı yaz. "İstediğini Yaz" yazam yerde butonun üstünde gözüken yazıdır. Onu silip kendi istediğini yazabilirsin.
+Bu kodları istediğiniz gibi değiştirebilirsiniz ama kurcalamanızı tavsiye etmiyorum. href="..." kodunun içindeki noktaları silip tıklandığında gidiceğin bağlantıyı yaz. "İstediğini Yaz" yazan yerde butonun üstünde gözüken yazıdır. Onu silip kendi istediğini yazabilirsin.
 
 HTML SAYFASI İÇİN:
 
